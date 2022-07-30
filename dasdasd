@@ -1,0 +1,66 @@
+[33mcommit a25c812f3fc69b5d88205b2a22865f65b868a964[m[33m ([m[1;36mHEAD -> [m[1;32mexperiment_dark_mode[m[33m)[m
+Author: Maciej Warowny <warownymaciej@gmail.com>
+Date:   Sat Jul 30 14:20:53 2022 +0200
+
+    changed text color to white
+
+[33mcommit 783de1f447fdbdbaad27d16cd0d70cf70c724375[m
+Author: Maciej Warowny <warownymaciej@gmail.com>
+Date:   Sat Jul 30 14:19:32 2022 +0200
+
+    changed body color to black
+
+[33mcommit 8154bec5e095e5a87eb9fe1949547264018b915b[m[33m ([m[1;32mmaster[m[33m)[m
+Merge: d2b9dfd 66d38e5
+Author: Maciej Warowny <warownymaciej@gmail.com>
+Date:   Sat Jul 30 13:37:47 2022 +0200
+
+    Merge branch 'with_login_box'
+
+[33mcommit 66d38e53a69dd33d5a0bd252911e4951f658f36e[m
+Author: Maciej Warowny <warownymaciej@gmail.com>
+Date:   Sat Jul 30 13:23:24 2022 +0200
+
+    changed singin button to yellow
+
+[33mcommit ee41d4ca7922d376e41a9bad2a8607b34ce26dc9[m
+Author: Maciej Warowny <warownymaciej@gmail.com>
+Date:   Wed Jul 27 22:22:13 2022 +0200
+
+    added login box again
+
+[33mcommit d2b9dfd3e6e274cb5825de0742df5ae5c6fc8e34[m[33m ([m[1;33mtag: h[m[33m)[m
+Author: Maciej Warowny <warownymaciej@gmail.com>
+Date:   Sat Jul 23 10:53:52 2022 +0200
+
+    Removed year from copyright in footer
+
+[33mcommit 16f94ca677c3d2b8e00668c9371ba81a66184209[m[33m ([m[1;33mtag: e[m[33m)[m
+Author: Maciej Warowny <warownymaciej@gmail.com>
+Date:   Sat Jul 23 10:52:47 2022 +0200
+
+    removed sign in box
+
+[33mcommit a68f2a0d7f89bc713e30a64859cdf603f85b5ea4[m[33m ([m[1;33mtag: ll[m[33m)[m
+Author: Maciej Warowny <warownymaciej@gmail.com>
+Date:   Sat Jul 23 10:49:17 2022 +0200
+
+    chagned Hello World welcomed text
+
+[33mcommit bd161fd5207f1ae6ba771ccd506b1b380e94f4fa[m[33m ([m[1;33mtag: o[m[33m)[m
+Author: Maciej Warowny <warownymaciej@gmail.com>
+Date:   Sat Jul 23 10:46:47 2022 +0200
+
+    modified website title
+
+[33mcommit f24d80fe376aa769ce50d15b1d45443bf8b5d781[m
+Author: Maciej Warowny <warownymaciej@gmail.com>
+Date:   Sat Jul 23 09:47:27 2022 +0200
+
+    Added initial project template
+
+[33mcommit afa7c42ca0f12d033a174a7fcfcf5680d65167e6[m
+Author: Maciej Warowny <warownymaciej@gmail.com>
+Date:   Mon Jul 18 19:04:14 2022 +0200
+
+    Initial commit with project description file
